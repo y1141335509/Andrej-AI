@@ -1,7 +1,7 @@
 {
   "CodeGPT.apiKey": "CodeGPT Plus Beta",
   "workbench.colorTheme": "Default Dark Modern",
-  "workbench.preferredDarkColorTheme": "Monokai",
+  "workbench.preferredDarkColorTheme": "Default Dark Modern",
   "python.analysis.autoImportCompletions": true,
   "workbench.preferredHighContrastLightColorTheme": "Monokai",
   "workbench.preferredLightColorTheme": "Monokai",
