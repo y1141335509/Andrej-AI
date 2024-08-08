@@ -5,5 +5,31 @@
   "python.analysis.autoImportCompletions": true,
   "workbench.preferredHighContrastLightColorTheme": "Monokai",
   "workbench.preferredLightColorTheme": "Monokai",
-  "workbench.preferredHighContrastColorTheme": "Monokai"
+  "workbench.preferredHighContrastColorTheme": "Monokai",
+  "workbench.colorCustomizations": {
+
+  },
+  "background.styles": [
+
+
+    {},
+    {},
+    {}
+  ],
+  "background.fullscreen": {
+
+
+    "images": [],
+    "opacity": 0.91,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "background.style": {
+    
+    "background-position": "100% 100%",
+    "background-size": "auto",
+    "opacity": 1
+  },
+
 }
